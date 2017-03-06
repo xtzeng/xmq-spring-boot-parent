@@ -25,5 +25,6 @@
     <module>xmq-spring-boot-mybatis-xml</module>
     <module>xmq-spring-boot-mybatis-annotation</module>
     <module>xmq-spring-boot-mybatis-xml-multidatasource</module>
+    <module>xmq-spring-boot-mybatis-annotation-multidatasource</module>
   </modules>
 </project>
