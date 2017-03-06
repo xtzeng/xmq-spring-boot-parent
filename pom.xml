@@ -23,5 +23,6 @@
   </build>
   <modules>
     <module>xmq-spring-boot-mybatis-xml</module>
+    <module>xmq-spring-boot-mybatis-annotation</module>
   </modules>
 </project>
