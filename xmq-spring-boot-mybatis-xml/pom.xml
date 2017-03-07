@@ -20,7 +20,7 @@
   
   
   	<groupId>com.xmq</groupId>
-	<artifactId>xmq-spring-boot-parent</artifactId>
+	<artifactId>xmq-spring-boot-mybatis-xml</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>xmq-spring-boot-mybatis-xml</name>
